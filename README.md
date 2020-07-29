@@ -20,5 +20,6 @@ A simple django project to consume weather api from open weather datas
 ![Search Image]  (https://github.com/Stephen-Kamau/Weather_Api/blob/master/search.png)
 
 
-![results image] (https://github.com/Stephen-Kamau/Weather_Api/blob/master/results.png)
+![results image]
+<img src="https://github.com/Stephen-Kamau/Weather_Api/blob/master/results.png" alt = "Results image">
 
