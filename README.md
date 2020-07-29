@@ -17,8 +17,8 @@ A simple django project to consume weather api from open weather datas
 
 ## Here is a sample images for the app
 
-![Search Image]  https://github.com/Stephen-Kamau/Weather_Api/blob/master/search.png
+![Search Image]  (https://github.com/Stephen-Kamau/Weather_Api/blob/master/search.png)
 
 
-![results image] https://github.com/Stephen-Kamau/Weather_Api/blob/master/results.png
+![results image] (https://github.com/Stephen-Kamau/Weather_Api/blob/master/results.png)
 
